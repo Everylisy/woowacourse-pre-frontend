@@ -10,13 +10,13 @@
 
 ## 🏁 프리코스 미션 진행 내용
 
-| 미션                 | 레포지토리                                                                              | Pull Request                                                                       |
-| -------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 온보딩               | [javascript-onboarding](https://github.com/woowacourse-precourse/javascript-onboarding) | [PR #750](https://github.com/woowacourse-precourse/javascript-onboarding/pull/750) |
-| 숫자 야구            | [javascript-baseball](https://github.com/woowacourse-precourse/javascript-baseball)     | [PR #383](https://github.com/woowacourse-precourse/javascript-baseball/pull/383)   |
-| 로또                 | [javascript-lotto](https://github.com/woowacourse-precourse/javascript-lotto)           | [PR #354](https://github.com/woowacourse-precourse/javascript-lotto/pull/354)      |
-| 다리 건너기          | [javascript-bridge](https://github.com/woowacourse-precourse/javascript-bridge)         | [PR #49](https://github.com/woowacourse-precourse/javascript-bridge/pull/49)       |
-| 최종 코딩테스트 대비 | [final-test-practice](https://github.com/Everylisy/final-test-practice)                 | 개인 진행                                                                          |
+| 미션                 | 레포지토리                                                                  | Pull Request |
+| -------------------- | --------------------------------------------------------------------------- | ------------ |
+| 온보딩               | [javascript-onboarding](https://github.com/Everylisy/javascript-onboarding) | PR #750      |
+| 숫자 야구            | [javascript-baseball](https://github.com/Everylisy/javascript-baseball)     | PR #383      |
+| 로또                 | [javascript-lotto](https://github.com/Everylisy/javascript-lotto)           | PR #354      |
+| 다리 건너기          | [javascript-bridge](https://github.com/Everylisy/javascript-bridge)         | PR #49       |
+| 최종 코딩테스트 대비 | [final-test-practice](https://github.com/Everylisy/final-test-practice)     | 개인 진행    |
 
 <br>
 
@@ -26,6 +26,6 @@
 > 날짜 및 시간 : 2022.12.17 (토) 13시 ~ 18시  
 > 장소 : 우아한테크코스 잠실 캠퍼스
 
-| 미션           | 레포지토리                                                                  | Pull Request                                                               |
-| -------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 점심 메뉴 추천 | [javascript-menu](https://github.com/woowacourse-precourse/javascript-menu) | [PR #66](https://github.com/woowacourse-precourse/javascript-menu/pull/66) |
+| 미션           | 레포지토리                                                      | Pull Request |
+| -------------- | --------------------------------------------------------------- | ------------ |
+| 점심 메뉴 추천 | [javascript-menu](https://github.com/Everylisy/javascript-menu) | PR #66       |
